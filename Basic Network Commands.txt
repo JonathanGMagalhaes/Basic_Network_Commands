@@ -1,0 +1,9 @@
+ipconfig = The ipconfig command is used to display information about your network configuration and refresh DHCP and DNS Settings.
+
+ipconfig /all = The ipconfig /all command shows all the information about your network adapter. It helps configure your connection by providing important details about the physical address, DHCP and DNS servers, the subnet mask, and default gateway, among other things.
+
+nslookup = nslookup is a command-line tool to discover the IP address or DNS record of a specific domain name. It also allows for reverse DNS lookup, letting you find the domain attached to an IP address. To use the tool, enter “nslookup” into the Command Prompt or Terminal.
+
+ping = The ping command sends one datagram per second and prints one line of output for every response received. The ping command calculates round-trip times and packet loss statistics, and displays a brief summary on completion. The ping command completes when the program times out or on receipt of a SIGINT signal.
+
+tracert = The UNIX/Linux traceroute command (tracert on a Windows computer) identifies the route a packet takes between your computer and the destination computer specified in the command. As a rule, you have very little or no control on how a packet gets from point A to point B.
